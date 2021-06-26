@@ -32,6 +32,7 @@ items:
  - ToolJet/ToolJet
  - ParthJadhav/Tkinter-Designer
  - dr5hn/countries-states-cities-database
+ - amitmerchant1990/reverie
 display_name: Made in India
 created_by: mvkaran
 image: made-in-india.png
